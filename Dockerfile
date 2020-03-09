@@ -60,7 +60,8 @@ RUN install2.r --error \
   ggthemes \
   extrafont \  
   flexdashboard \
-  XLConnect \
+  readxl \
+  writexl \
   RSQLite \
   fst
 
